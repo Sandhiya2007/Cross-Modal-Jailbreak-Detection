@@ -1,0 +1,53 @@
+# Deep Learning & ML Core
+torch>=2.3.0
+torchvision>=0.18.0
+torchaudio>=2.0.0
+transformers>=4.46.0
+accelerate>=0.34.2
+datasets>=2.21.0
+tokenizers>=0.15.0
+timm>=0.9.12
+open-clip-torch>=2.24.0
+scikit-learn>=1.5.2
+scipy>=1.11.0
+numpy>=2.1.1
+pandas>=2.2.3
+
+# Document & Vision Processing
+Pillow>=10.1.0
+opencv-python>=4.8.1.78
+pypdf>=3.17.0
+pdfplumber>=0.10.3
+pyzbar>=0.1.9
+pytesseract>=0.3.10
+qrcode[pil]>=7.4.2
+
+# Explainable AI (XAI)
+shap>=0.44.0
+grad-cam>=1.4.8
+
+# Backend & API
+fastapi>=0.104.1
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+python-multipart>=0.0.6
+requests>=2.31.0
+httpx>=0.25.2
+python-dotenv>=1.0.0
+
+# Utilities & Visualization
+tqdm>=4.66.5
+pyyaml>=6.0.1
+matplotlib>=3.9.2
+seaborn>=0.13.0
+reportlab>=4.0.7
+
+# Model Evaluation & Serialization (Phase 3)
+evaluate>=0.4.3
+sentencepiece>=0.2.0
+safetensors>=0.4.5
+
+# Testing
+pytest>=7.4.3
+pytest-asyncio>=0.21.1
+
